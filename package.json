@@ -1,0 +1,24 @@
+{
+  "name": "level_2-Milestone",
+  "version": "1.0.0",
+  "description": "A repository for all web-based projects by subhasis-misra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhasis-misra/level_2-Milestone.git"
+  },
+  "author": "subhasis misra <subhasis.misra.07@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhasis-misra/level_2-Milestone/issues"
+  },
+  "homepage": "https://github.com/subhasis-misra/level_2-Milestone#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  },
+  "devDependencies": {}
+}
